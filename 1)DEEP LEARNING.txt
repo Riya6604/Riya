@@ -1,0 +1,54 @@
+1)DEEP LEARNING :
+Deep learning is a type of machine learning that uses artificial neural networks to teach computers to process data like the human brain: 
+How it works
+Deep learning models are trained on large amounts of data to recognize patterns and relationships, identify and classify phenomena, and make predictions and decision
+
+2) TENSORFLOW :
+TensorFlow is a popular framework of machine learning and deep learning. It is a free and open-source library which is
+developed by Google It is entirely based on Python programming language and use for numerical computation and data flow,
+The word TensorFlow is made by two words, i.e., Tensor and Flow
+
+Tensor is a multidimensional array
+Flow is used to define the flow of data in operation.
+TensorFlow can train and run the deep neural networks for image recognition, handwritten digit classification, recurrent neural network, word embedding, natural language processing, video detection, and many more.
+
+3)KERAS :
+Keras is a deep learning framework capable of running on top of TensorFlow, or PyTorch that helps users create and train neural networks more easily. It's written in Python and is designed to be user-friendly and modular. It supports multiple backend neural network computation, Keras allows you to build, train, and deploy deep learning models with minimal code.
+
+4)THEANO :
+Theano is a Python library that allows us to evaluate mathematical operations including multi-dimensional arrays efficiently.It is mostly used in building Deep Learning Projects. Theano works way faster on the Graphics Processing Unit (GPU) rather than on the CPU.It knows how to take your structures and turn them into very efficient code that uses NumPy, efficient native libraries like BLAS and native code (C++) to run as fast as possible on CPUs or GPUs.
+
+4) PYTORCH :
+PyTorch is a small part of a computer software which is based on Torch library. It is a Deep Learning framework introduced by Facebook. PyTorch is a Machine Learning Library for Python programming language which is used for applications such as Natural Language Processing
+.
+5)Autoencoder 
+a type of artificial neural network that compresses input data into its most important features, and then reconstructs the original input from that compressed representation 
+
+6)anomoly detection :
+Anomaly detection is the process of finding abnormal data also used to identify unusual patterns in data, or outliers, and determine if they are normal or anomalous. It can be used to protect systems from harmful events.
+techniques :
+local oulier factors
+autoencoders
+knn base outlier detection
+connection base oulier factor
+isolation factor
+one class svm
+
+pandas
+Function: pandas is a Python library used for data manipulation and analysis. 
+
+matplotlib
+Function: matplotlib is a comprehensive plotting library in Python. It is used to create a wide variety of static, animated, and interactive visualizations like line charts, bar graphs, histograms, etc.
+
+numpy
+Function: numpy is a fundamental library for numerical computations in Python. It provides support for large, multi-dimensional arrays and matrices, along with a collection of high-level mathematical functions
+
+seaborn
+Function: seaborn is built on top of matplotlib.it is used for data visualization and create simole visualization of complex patterns like heatmap , pair plot
+
+%matplotlib inline
+Function: This is a special magic command used in Jupyter Notebooks (or IPython environments) to ensure that matplotlib plots are displayed directly in the notebook instead of opening in a separate window.
+
+sklearn (Scikit-learn)
+Function: sklearn, also known as Scikit-learn, is one of the most popular and widely used machine learning libraries in Python. It provides a simple and efficient way to perform machine learning tasks, such as classification, regression, clustering, dimensionality reduction, and model selection.
+
